@@ -1,4 +1,4 @@
-[<img alt="Youtube example" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=_crYfS5v4ag)
+[<img alt="Youtube example" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=9NqdIfq722g)
 
 # Exifless
 Exifless is a CLI based script that allows you to erase the EXIF/meta data of an image.
